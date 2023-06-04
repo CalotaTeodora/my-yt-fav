@@ -4,8 +4,8 @@
 
 ## What about it
  First of all, it's a miny web site made just with react , boostrap , html , css.
- It's about my favorite Youtuber-us and theyr best video (in my opinion).
- Feel free to take a look, it's nok big of a deal but I learned a lot.
+ It's about my favorite Youtubers and theyr best videos (in my opinion).
+ Feel free to take a look, it's not big of a deal but I learned a lot.
 
 ### Setup
 To run this project , you need to install npm :
